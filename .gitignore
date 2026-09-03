@@ -1,0 +1,19 @@
+# Environment variables (Secrets & API Keys)
+.env
+.env.local
+*.env
+
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build artifacts
+dist/
+build/
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
